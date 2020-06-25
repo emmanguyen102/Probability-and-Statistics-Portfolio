@@ -7,7 +7,7 @@
  <br>
  Project: [#3.1 Mobile App for Lottery Addiction](https://github.com/emmanguyen102/Probability-and-Statistics-Portfolio/blob/master/%233.1%20Mobile%20App%20for%20Lottery%20Addiction%20in%20Python.ipynb)
  <br>
-Project: [#4.1] Building a Spam Filter with Naive Bayes in Python ()
+Project: [#4.1 Building a Spam Filter with Naive Bayes in Python] ()
  <br>
-Project: [#5.1] Winning Jeopardy (in Python) ()
+Project: [#5.1 Winning Jeopardy (in Python)] ()
  <br>
