@@ -9,5 +9,5 @@
  <br>
 Project: [#4.1 Building a Spam Filter with Naive Bayes in Python](https://github.com/emmanguyen102/Probability-and-Statistics-Portfolio/blob/master/%234.1%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes%20in%20Python.ipynb)
  <br>
-Project: [#5.1 Winning Jeopardy (in Python)]()
+Project: [#5.1 Winning Jeopardy using chi-squared test (in Python)](https://github.com/emmanguyen102/Probability-and-Statistics-Portfolio/blob/master/%235.1%20Winning%20Jeopardy%20applying%20chi-squared%20test%20(in%20Python).ipynb)
  <br>
